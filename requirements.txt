@@ -1,3 +1,5 @@
 python-dotenv
 streamlit
 requests
+argparse
+warnings
